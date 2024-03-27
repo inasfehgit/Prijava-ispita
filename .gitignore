@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Prijava ispita/API/obj
+/Prijava ispita/.vs/Prijava ispita
